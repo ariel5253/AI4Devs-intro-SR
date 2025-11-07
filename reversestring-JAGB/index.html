@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Inversor de Strings</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>🔁 Inversor de Strings</h1>
+
+    <div class="input-section">
+      <input type="text" id="inputText" placeholder="Escribe un texto..." />
+      <button id="invertButton">Invertir</button>
+    </div>
+
+    <div class="options">
+      <label>
+        <input type="checkbox" id="autoMode" checked />
+        Modo automático
+      </label>
+    </div>
+
+    <div class="result">
+      <h3>Resultado:</h3>
+      <p id="resultText">---</p>
+    </div>
+
+    <div class="history">
+      <h3>Historial</h3>
+      <ul id="historyList"></ul>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
