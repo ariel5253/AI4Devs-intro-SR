@@ -1,5 +1,5 @@
 
-# 🧠 Prompts usados para `reversestring-XXX`
+# 🧠 Prompts usados para `reversestring-JAGB`
 **Chatbot utilizado:** ChatGPT 5 Instant
 
 ---
@@ -66,5 +66,6 @@ En resumen, aprendí que un buen prompt no es solo “pedir código”, sino **d
 
 📘 **Reflexión final:**
 Trabajar con ChatGPT 5 Instant fue como tener un compañero de desarrollo rápido y atento a los detalles. La clave estuvo en **iterar con precisión**, pedir aclaraciones específicas y mantener un diálogo técnico. Cada iteración mejoró no solo el código, sino mi forma de comunicar requisitos a una IA.
+
 
 ---
